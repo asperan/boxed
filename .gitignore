@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/boxed
+libboxed.so
+libboxed.dylib
+libboxed.dll
+libboxed.a
+libboxed.lib
+boxed-test-*
+*.exe
+*.o
+*.obj
+*.lst
