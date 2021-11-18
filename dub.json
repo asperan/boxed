@@ -1,0 +1,10 @@
+{
+	"authors": [
+		"Alex 'asperan' Speranza"
+	],
+	"copyright": "Copyright © 2021, Alex 'asperan' Speranza",
+	"description": "A D library which provides simple objects which wrap some primitive types.",
+	"license": "MIT",
+	"name": "boxed",
+    "targetType": "library"
+}
